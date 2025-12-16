@@ -73,32 +73,6 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
-    },
-    {
-      "label": "base_outline",
-      "points": [
-        [
-          299.87096774193543,
-          461.61290322580646
-        ],
-        [
-          836.9677419354838,
-          69.67741935483869
-        ],
-        [
-          740.1935483870967,
-          11.612903225806406
-        ],
-        [
-          199.87096774193543,
-          393.8709677419355
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "polygon",
-      "flags": {},
-      "mask": null
     }
   ],
   "imagePath": "..\\th11_defence_16.jpg",
