@@ -1,0 +1,9 @@
+path: C:\Users\rafma\OneDrive\Desktop\Python\CocDataset\yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: air_defense_9
+  1: air_defense_10
+  2: air_defense_11
+  3: air_defense_12
